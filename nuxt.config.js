@@ -32,8 +32,6 @@ export default {
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
     '@nuxtjs/router',
-
-
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
